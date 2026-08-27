@@ -52,7 +52,7 @@ pip install -r requirements.txt
 # 4. Run the program
 
 ```bash
-weather_forecast.py
+python weather_forecast.py
 ```
 
 # How to Use
